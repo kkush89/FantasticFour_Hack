@@ -10,4 +10,6 @@ https://answers.unity.com/questions/55179/cheapest-way-to-catch-collisions-on-ve
 
 https://www.youtube.com/watch?v=zc8ac_qUXQY
 
+https://www.youtube.com/watch?v=AcpaYq0ihaM
+
 Assets used can be found the game folders
